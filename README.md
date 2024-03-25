@@ -49,4 +49,4 @@ Contributions are welcome! If you find any issues or would like to suggest enhan
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License]([LICENSE](https://github.com/Rajendran2201/Responsive-Ebook-shopping-website/blob/main/LICENSE)https://github.com/Rajendran2201/Responsive-Ebook-shopping-website/blob/main/LICENSE).
