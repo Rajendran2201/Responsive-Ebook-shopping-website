@@ -31,7 +31,7 @@ This project is a Responsive Book Website developed using HTML, CSS, and JavaScr
 To run the website locally, simply clone the repository and open the `index.html` file in a web browser.
 
 ```bash
-git clone <repository-url>
+git clone <repository-url>](https://github.com/Rajendran2201/Responsive-Ebook-shopping-website/tree/main)
 cd responsive-book-website
 ```
 
